@@ -1,5 +1,5 @@
 
-namespace Usarios.API
+namespace Usuarios.API
 {
     public class Program
     {
